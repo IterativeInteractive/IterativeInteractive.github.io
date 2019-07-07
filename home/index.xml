@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Iterative Interactive</title>
-    <link>https://example.org/home/</link>
+    <link>iterativeinteractive.com/home/</link>
     <description>Recent content in Homes on Iterative Interactive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:53:42 +0530</lastBuildDate>
     
-	<atom:link href="https://example.org/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="iterativeinteractive.com/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rank Runner</title>
-      <link>https://example.org/home/rank_runner/</link>
+      <link>iterativeinteractive.com/home/rank_runner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/home/rank_runner/</guid>
+      <guid>iterativeinteractive.com/home/rank_runner/</guid>
       <description>1-button bullet-hell endless runner where you LITERALLY ascend the Leaderboard as you play!</description>
     </item>
     
     <item>
       <title>Puzzle Patrol</title>
-      <link>https://example.org/home/puzzle_patrol/</link>
+      <link>iterativeinteractive.com/home/puzzle_patrol/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
-      <guid>https://example.org/home/puzzle_patrol/</guid>
+      <guid>iterativeinteractive.com/home/puzzle_patrol/</guid>
       <description>A unique, modern spin on the falling blocks arcade puzzler, where you swap and pop cute monsters rising from below!</description>
     </item>
     

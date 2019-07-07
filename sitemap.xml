@@ -3,33 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/home/rank_runner/</loc>
+    <loc>iterativeinteractive.com/home/rank_runner/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/home/puzzle_patrol/</loc>
+    <loc>iterativeinteractive.com/home/puzzle_patrol/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>iterativeinteractive.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/home/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.org/</loc>
+    <loc>iterativeinteractive.com/home/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>iterativeinteractive.com/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>iterativeinteractive.com/tags/</loc>
     <priority>0</priority>
   </url>
   
