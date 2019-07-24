@@ -12,6 +12,10 @@
   </url>
   
   <url>
+    <loc>https://IterativeInteractive.github.io/privacy/rankrunner/</loc>
+  </url>
+  
+  <url>
     <loc>https://IterativeInteractive.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -25,6 +29,11 @@
   <url>
     <loc>https://IterativeInteractive.github.io/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://IterativeInteractive.github.io/privacy/</loc>
     <priority>0</priority>
   </url>
   
